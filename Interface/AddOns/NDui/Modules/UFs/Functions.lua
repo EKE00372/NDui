@@ -1364,7 +1364,6 @@ local UNITFRAME_DESATURATED_DEBUFF_GROUPS = {
 }
 local UNITFRAME_PERSONAL_DEBUFF_LIMIT = 8
 local UNITFRAME_DESATURATED_DEBUFF_VALUES = {
-	Player = true,
 	Target = true,
 	Focus = true,
 }
